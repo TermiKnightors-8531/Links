@@ -4,5 +4,14 @@ https://software-metadata.revrobotics.com/REVLib.json
 REV Robotics Docs: 
 https://codedocs.revrobotics.com/java/com/revrobotics/package-summary.html
 
+WPILIB Tools Download:
+https://github.com/wpilibsuite/allwpilib/releases/tag/v2022.2.1
+
 WPILIB Docs:
 https://first.wpi.edu/FRC/roborio/release/docs/java/
+
+NAVX-MXP Library:
+https://www.kauailabs.com/dist/frc/2022/navx_frc.json
+
+NAVX-MXP Docs: 
+https://www.kauailabs.com/public_files/navx-mxp/apidocs/java/com/kauailabs/navx/frc/package-summary.html
