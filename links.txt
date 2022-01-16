@@ -1,0 +1,4 @@
+REV Robotics Library: https://software-metadata.revrobotics.com/REVLib.json
+REV Robotics Docs: https://codedocs.revrobotics.com/java/com/revrobotics/package-summary.html
+
+WPILIB Docs: https://first.wpi.edu/FRC/roborio/release/docs/java/
